@@ -1,7 +1,7 @@
 # math70088-tda
 Topological data analysis research project for the MATH70088 module for the MSC Statistics &amp; Data Science course at Imperial College London
 
-### Python virtual environment
+### Python 3 virtual environment
 
 Before using the code it is best to setup and start a Python virtual environment in order to avoid potential package clashes using the [requirements](src/requirements.txt) file:
 
